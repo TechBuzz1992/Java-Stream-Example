@@ -2,11 +2,11 @@
 
 This project aims to demonstrate the use of Stream API in Java in order to perform various collection operations on Collections.
 
-Introduced in Java 8, the Stream API is used to process collections of objects. A stream is a sequence of objects that supports various methods which can be pipelined to produce the desired result.
-The features of Java stream are –
-1.A stream is not a data structure instead it takes input from the Collections, Arrays or I/O channels.
-2.Streams don’t change the original data structure, they only provide the result as per the pipelined methods.
-3.Each intermediate operation is lazily executed and returns a stream as a result, hence various intermediate operations can be pipelined. Terminal operations mark the end of the stream and return the result.
+Introduced in Java 8, the Stream API is used to process collections of objects. A stream is a sequence of objects that supports various methods which can be pipelined to produce the desired result.<br/>
+The features of Java stream are –<br/>
+1.A stream is not a data structure instead it takes input from the Collections, Arrays or I/O channels.<br/>
+2.Streams don’t change the original data structure, they only provide the result as per the pipelined methods.<br/>
+3.Each intermediate operation is lazily executed and returns a stream as a result, hence various intermediate operations can be pipelined. Terminal operations mark the end of the stream and return the result.<br/>
 
 Intermediate Operations:<br/><br/>
 
